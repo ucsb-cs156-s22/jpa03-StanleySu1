@@ -2,8 +2,8 @@
 Repo:
 https://github.com/ucsb-cs156-s22/jpa03-StanleySu1
 Storybook is here:
-* Production: <https://ucsb-cs156-s22.github.io/jpa03-StanleySu1-docs/storybook>
-* QA:  <https://ucsb-cs156-s22.github.io/jpa03-StanleySu1-docs-qa/storybook-qa/main/>
+* Production: <https://ucsb-cs156-s22.github.io/jpa03-StanleySu1-docs>
+* QA:  <https://ucsb-cs156-s22.github.io/jpa03-StanleySu1-docs-qa>
 
 The GitHub actions script to deploy the Storybook to QA requires some configuration; see [docs/github-actions.md](docs/github-actions.md) for details.
 
